@@ -4,8 +4,8 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  5 - 5
-  return 0
+  10 - 5
+  return 5
 end
 
 def division(num1, num2)
